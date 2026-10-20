@@ -1,0 +1,15 @@
+/* CSS Flexbox */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.box {
+    width: 150px;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid black;
+}
