@@ -1,0 +1,14 @@
+/* CSS Colors and Backgrounds */
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: black;
+    background-color: white;
+}
