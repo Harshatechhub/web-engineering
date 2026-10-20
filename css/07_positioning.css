@@ -1,0 +1,27 @@
+/* CSS Positioning */
+
+.container {
+    position: relative;
+    width: 400px;
+    height: 250px;
+    border: 2px solid black;
+}
+
+.box {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.fixed-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.sticky-header {
+    position: sticky;
+    top: 0;
+}
