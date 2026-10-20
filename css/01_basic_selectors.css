@@ -1,0 +1,17 @@
+/* CSS Basic Selectors */
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+#main-title {
+    text-align: center;
+}
